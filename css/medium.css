@@ -41,7 +41,7 @@ h4{
     color: white;
 }
 #imagem_fundo {
-    background: url("img/fundo.jpg");
+    background: url(../img/fundo.jpg);
     height: 100%;
     text-align: center;
     background-size: cover;

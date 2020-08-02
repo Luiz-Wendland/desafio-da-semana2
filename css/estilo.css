@@ -57,7 +57,7 @@ li:hover{
     color: white;
 }
 #imagem_fundo {
-    background: url("img/fundo.jpg");
+    background-image: url(../img/fundo.jpg);
     height: 100%;
     text-align: center;
     background-size: cover;
